@@ -7,7 +7,7 @@ package edu.handong.csee.java.lab13.prob5;
 
 import java.util.Scanner;//import scanner
 
-public class main {//main class
+public class Main {//main class
 	public static void main(String[] args) {//main method
 		int n1, n2 = 0;//create int value n1, n2
 		
@@ -51,7 +51,7 @@ public class main {//main class
 		    System.out.println("The two arrays are approximately identical.");//print proper message
 		else //if its not
 		    System.out.println("The two arrays are not identical");//print proper message
+		
+		keyboard.close();
 	}
 }
-
-

@@ -4,7 +4,7 @@ package edu.handong.csee.java.lab13.prob6;
  * Date: 2018-05-02
  */
 
-public class main {//class main
+public class Prob6Main {//class main
 	public static void main(String[] args) {//method main
 		UpPoint p1 = new UpPoint(3,3);//create new object p1
 		DownPoint p2 = new DownPoint(2,5);//create new object p2

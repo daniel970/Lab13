@@ -27,6 +27,7 @@ public class MAIN {//main class
 		dog.setName(dog_name);//set dog name
 		dog.getName();//get dog_name and save on dog
 		master.feed(dog);//play feed method in method master
-
+		
+		keyboard.close();
 		}
 }

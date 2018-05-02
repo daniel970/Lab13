@@ -7,7 +7,7 @@ package edu.handong.csee.java.lab13.prob1;
  *
  */
 
-public class main {//class main
+public class Main {//class main
 	public static void main(String[] args) { //main
 		// TODO Auto-generated method stub
 		Friend friend1 = new Friend(); //creates new object of Friend

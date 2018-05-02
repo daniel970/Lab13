@@ -27,6 +27,8 @@ public class MAIN {// main class
 		System.out.println("Length: "+ r1.get_Length());//print length
 		System.out.println("Width: "+ r1.get_Width());//print  width
 		r1.display();//use display method with object r1
+		
+		keyboard.close();
 		}
 
 }
